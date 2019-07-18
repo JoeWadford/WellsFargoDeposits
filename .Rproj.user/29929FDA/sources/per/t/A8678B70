@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563362406834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1587622469",
+    "id" : "A8678B70",
+    "lastKnownWriteTime" : 1563367057,
+    "last_content_update" : 1563367057738,
+    "path" : "~/Quant Boot Camp/Tableaus/Wells Fargo Deposits/SoutheastDeposits.R",
+    "project_path" : "SoutheastDeposits.R",
+    "properties" : {
+        "cursorPosition" : "86,0",
+        "scrollLine" : "56",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/Quant Boot Camp/Tableaus/Wells Fargo Deposits",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

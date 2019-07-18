@@ -1,0 +1,86 @@
+# WELLS FARGO DEPOSITS
+## Imports and cleaning Data
+
+### Importing datasets from datazar into R
+getwd()
+NC <- read.csv("./North_Carolina_Wells_Fargo_Bank_Deposits.csv")
+SC <- read.csv("./South_Carolina_Wells_Fargo_Bank_Deposits.csv")
+GA <- read.csv("./Georgia_Wells_Fargo__Bank_Deposits.csv")
+MS <- read.csv("./Mississippi_Wells_Fargo__Bank_Deposits.csv")
+FL <- read.csv("./Florida_Wells_Fargo__Bank_Deposits.csv")
+MD <- read.csv("./Maryland_Wells_Fargo__Bank_Deposits.csv")
+TN <- read.csv("./Tennessee_Wells_Fargo_Bank_Deposits.csv")
+VA <- read.csv("./Virginia_Wells_Fargo_Bank_Deposits.csv")
+AL <- read.csv("./Alabama_Wells_Fargo_Bank_Deposits.csv")
+
+### Adding state column for analysis in Tableau
+NC$State <- 'North Carolina'
+SC$State <- 'South Carolina'
+GA$State <- 'Georgia'
+MS$State <- 'Mississippi'
+FL$State <- 'Florida'
+MD$State <- 'Maryland'
+TN$State <- 'Tennessee'
+VA$State <- 'Virginia'
+AL$State <- 'Alabama'
+
+### Changing column names into more manageable names
+#### Checking columnn names at first then renaming then checking work
+
+colnames(NC)
+colnames(NC)[2:3] <- c("Bank Deposits 2015","Bank Deposits 2014")
+colnames(NC)
+
+colnames(SC)
+colnames(SC)[2:3] <- c("Bank Deposits 2015","Bank Deposits 2014")
+colnames(SC)
+
+colnames(GA)
+colnames(GA)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(GA)
+
+colnames(MS)
+colnames(MS)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(MS)
+
+colnames(FL)
+colnames(FL)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(FL)
+
+colnames(MD)
+colnames(MD)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(MD)
+
+colnames(TN)
+colnames(TN)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(TN)
+
+colnames(VA)
+colnames(VA)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(VA)
+
+colnames(AL)
+colnames(AL)[2:3] <- c("Bank Deposits 2015", "Bank Deposits 2014")
+colnames(AL)
+
+### tidying data into a narrow dataset
+#### NC, SC, GA, MS, FL, MD, TN, VA, AL
+#### 7 Columns =  AL, FL, GA, MD, 
+
+NC1 <- NC
+SC1 <- SC
+GA1 <- GA[,-c(4:6)]
+MS1 <- MS
+FL1 <- FL[,-c(4:6)]
+MD1 <- MD[,-c(4:6)]
+TN1 <- TN
+VA1 <- VA
+AL1 <- AL[,-c(4:6)]
+
+colnames(GA1)
+colnames(FL1)
+colnames(MD1)
+colnames(AL1)
+
+SoutheastUSDeposits <- do.call("rbind", list(NC1,SC1,GA1,MS1,FL1,MD1,TN1,VA1,AL1))
+write.csv(SoutheastUSDeposits, file = "SoutheastDeposits.csv") 

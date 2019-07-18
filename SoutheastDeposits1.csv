@@ -1,0 +1,647 @@
+County_ST,County,Bank Deposits,State,Year
+Mecklenburg_NC,Mecklenburg,34233644000,North Carolina,2015
+Wake,Wake,6951148000,North Carolina,2015
+Forsyth_NC,Forsyth,2281152000,North Carolina,2015
+Guilford,Guilford,1687599000,North Carolina,2015
+Durham,Durham,1257385000,North Carolina,2015
+Buncombe,Buncombe,1093249000,North Carolina,2015
+New Hanover,New Hanover,1015433000,North Carolina,2015
+Iredell,Iredell,607525000,North Carolina,2015
+Cabarrus,Cabarrus,589440000,North Carolina,2015
+Orange_NC,Orange,485632000,North Carolina,2015
+Gaston,Gaston,473808000,North Carolina,2015
+Alamance,Alamance,467982000,North Carolina,2015
+Catawba,Catawba,452595000,North Carolina,2015
+Cumberland,Cumberland,432205000,North Carolina,2015
+Pitt,Pitt,364592000,North Carolina,2015
+Watauga,Watauga,255344000,North Carolina,2015
+Union_NC,Union,247379000,North Carolina,2015
+Henderson,Henderson,241760000,North Carolina,2015
+Rowan,Rowan,228309000,North Carolina,2015
+Wayne,Wayne,223481000,North Carolina,2015
+Moore,Moore,218287000,North Carolina,2015
+Randolph_NC,Randolph,217166000,North Carolina,2015
+Davidson_NC,Davidson,215045000,North Carolina,2015
+Carteret,Carteret,213578000,North Carolina,2015
+Surry,Surry,208518000,North Carolina,2015
+Craven,Craven,197183000,North Carolina,2015
+Wilkes,Wilkes,190503000,North Carolina,2015
+Nash,Nash,182857000,North Carolina,2015
+Wilson,Wilson,177753000,North Carolina,2015
+Burke,Burke,177723000,North Carolina,2015
+Pasquotank,Pasquotank,154937000,North Carolina,2015
+Dare,Dare,143892000,North Carolina,2015
+Beaufort_NC,Beaufort,141395000,North Carolina,2015
+Onslow,Onslow,138979000,North Carolina,2015
+Lenoir,Lenoir,138165000,North Carolina,2015
+Stanly,Stanly,137237000,North Carolina,2015
+Rutherford,Rutherford,119280000,North Carolina,2015
+Haywood,Haywood,118294000,North Carolina,2015
+Rockingham_NC,Rockingham,117807000,North Carolina,2015
+Cleveland,Cleveland,116465000,North Carolina,2015
+Transylvania,Transylvania,102182000,North Carolina,2015
+Jackson_NC,Jackson,99006000,North Carolina,2015
+Caldwell,Caldwell,93594000,North Carolina,2015
+Macon,Macon,90649000,North Carolina,2015
+Person,Person,84730000,North Carolina,2015
+Yancey,Yancey,75124000,North Carolina,2015
+Scotland,Scotland,74203000,North Carolina,2015
+Madison_NC,Madison,66346000,North Carolina,2015
+Martin_NC,Martin,66303000,North Carolina,2015
+Johnston,Johnston,64789000,North Carolina,2015
+Brunswick,Brunswick,61656000,North Carolina,2015
+Mitchell,Mitchell,58338000,North Carolina,2015
+Chatham_NC,Chatham,55705000,North Carolina,2015
+Lee_NC,Lee,53249000,North Carolina,2015
+Mcdowell,Mcdowell,52658000,North Carolina,2015
+Davie,Davie,50683000,North Carolina,2015
+Robeson,Robeson,48066000,North Carolina,2015
+Bladen,Bladen,47648000,North Carolina,2015
+Pamlico,Pamlico,45235000,North Carolina,2015
+Alexander,Alexander,43018000,North Carolina,2015
+Avery,Avery,41570000,North Carolina,2015
+Sampson,Sampson,38524000,North Carolina,2015
+Yadkin,Yadkin,37655000,North Carolina,2015
+Hertford,Hertford,37320000,North Carolina,2015
+Stokes,Stokes,36035000,North Carolina,2015
+Greene_NC,Greene,31522000,North Carolina,2015
+Bertie,Bertie,23777000,North Carolina,2015
+Richland,Richland,4206224000,South Carolina,2015
+Charleston,Charleston,2471857000,South Carolina,2015
+Greenville,Greenville,2036014000,South Carolina,2015
+Beaufort_SC,Beaufort,693254000,South Carolina,2015
+Lexington,Lexington,635180000,South Carolina,2015
+Florence,Florence,596312000,South Carolina,2015
+Horry,Horry,584717000,South Carolina,2015
+York_SC,York,531197000,South Carolina,2015
+Spartanburg,Spartanburg,471600000,South Carolina,2015
+Anderson,Anderson,344117000,South Carolina,2015
+Pickens,Pickens,263463000,South Carolina,2015
+Georgetown,Georgetown,210729000,South Carolina,2015
+Dorchester,Dorchester,201478000,South Carolina,2015
+Greenwood,Greenwood,189947000,South Carolina,2015
+Aiken,Aiken,189202000,South Carolina,2015
+Sumter_SC,Sumter,187351000,South Carolina,2015
+Oconee_SC,Oconee,182889000,South Carolina,2015
+Berkeley,Berkeley,128496000,South Carolina,2015
+Lancaster,Lancaster,96936000,South Carolina,2015
+Darlington,Darlington,93460000,South Carolina,2015
+Kershaw,Kershaw,82778000,South Carolina,2015
+Newberry,Newberry,70435000,South Carolina,2015
+Cherokee_SC,Cherokee,52839000,South Carolina,2015
+Calhoun_SC,Calhoun,49676000,South Carolina,2015
+Chesterfield_SC,Chesterfield,46900000,South Carolina,2015
+Marlboro,Marlboro,44779000,South Carolina,2015
+Edgefield,Edgefield,42307000,South Carolina,2015
+Union_SC,Union,39433000,South Carolina,2015
+Laurens_SC,Laurens,38410000,South Carolina,2015
+Dillon,Dillon,33157000,South Carolina,2015
+Fairfield,Fairfield,30830000,South Carolina,2015
+Colleton,Colleton,28816000,South Carolina,2015
+Bamberg,Bamberg,28426000,South Carolina,2015
+Marion_SC,Marion,25655000,South Carolina,2015
+Fulton,Fulton,15772440000,Georgia,2015
+Cobb,Cobb,2943595000,Georgia,2015
+Gwinnett,Gwinnett,2703696000,Georgia,2015
+Dekalb,Dekalb,2556448000,Georgia,2015
+Chatham_GA,Chatham,1182267000,Georgia,2015
+Richmond,Richmond,965873000,Georgia,2015
+Forsyth_GA,Forsyth,851343000,Georgia,2015
+Cherokee_GA,Cherokee,710152000,Georgia,2015
+Muscogee,Muscogee,614694000,Georgia,2015
+Hall,Hall,543878000,Georgia,2015
+Columbia,Columbia,419260000,Georgia,2015
+Fayette,Fayette,400491000,Georgia,2015
+Whitfield,Whitfield,359654000,Georgia,2015
+Clayton,Clayton,315080000,Georgia,2015
+Henry_GA,Henry,291063000,Georgia,2015
+Clarke,Clarke,270834000,Georgia,2015
+Bibb,Bibb,256553000,Georgia,2015
+Bartow,Bartow,178016000,Georgia,2015
+Floyd,Floyd,174592000,Georgia,2015
+Walton_GA,Walton,174233000,Georgia,2015
+Rockdale,Rockdale,173714000,Georgia,2015
+Coweta,Coweta,132262000,Georgia,2015
+Douglas,Douglas,130379000,Georgia,2015
+Paulding,Paulding,106179000,Georgia,2015
+Bulloch,Bulloch,102890000,Georgia,2015
+Houston_GA,Houston,99843000,Georgia,2015
+Sumter_GA,Sumter,96657000,Georgia,2015
+Spalding,Spalding,82503000,Georgia,2015
+Carroll_GA,Carroll,77466000,Georgia,2015
+Catoosa,Catoosa,74415000,Georgia,2015
+Newton,Newton,65466000,Georgia,2015
+Gordon,Gordon,58022000,Georgia,2015
+Glynn,Glynn,54975000,Georgia,2015
+Oconee_GA,Oconee,53233000,Georgia,2015
+Lumpkin,Lumpkin,51752000,Georgia,2015
+Jackson_GA,Jackson,50513000,Georgia,2015
+Greene_GA,Greene,49914000,Georgia,2015
+Chattahoochee,Chattahoochee,47437000,Georgia,2015
+Harris,Harris,45287000,Georgia,2015
+Liberty,Liberty,42031000,Georgia,2015
+Coffee_GA,Coffee,34192000,Georgia,2015
+Barrow,Barrow,29518000,Georgia,2015
+Laurens_GA,Laurens,26069000,Georgia,2015
+Washington_GA,Washington,23909000,Georgia,2015
+Walker_GA,Walker,19446000,Georgia,2015
+Murray,Murray,19265000,Georgia,2015
+Meriwether,Meriwether,15349000,Georgia,2015
+Telfair,Telfair,14970000,Georgia,2015
+Ben Hill,Ben Hill,14892000,Georgia,2015
+Hinds,Hinds,258231000,Mississippi,2015
+Harrison,Harrison,180302000,Mississippi,2015
+Forrest,Forrest,124026000,Mississippi,2015
+Jackson_MS,Jackson,73675000,Mississippi,2015
+Rankin,Rankin,37047000,Mississippi,2015
+Madison_MS,Madison,33222000,Mississippi,2015
+Lamar,Lamar,30424000,Mississippi,2015
+Desoto,Desoto,27924000,Mississippi,2015
+Miami-Dade,Miami-Dade,17031437000,Florida,2015
+Palm Beach,Palm Beach,9396914000,Florida,2015
+Broward,Broward,8907492000,Florida,2015
+Hillsborough,Hillsborough,4684723000,Florida,2015
+Orange_FL,Orange,4629309000,Florida,2015
+Duval,Duval,4516059000,Florida,2015
+Pinellas,Pinellas,3553562000,Florida,2015
+Lee_FL,Lee,2266098000,Florida,2015
+Sarasota,Sarasota,1881986000,Florida,2015
+Collier,Collier,1695294000,Florida,2015
+Brevard,Brevard,1658493000,Florida,2015
+Volusia,Volusia,1616334000,Florida,2015
+Polk,Polk,1076694000,Florida,2015
+Pasco,Pasco,1030507000,Florida,2015
+Alachua,Alachua,906984000,Florida,2015
+Seminole,Seminole,864004000,Florida,2015
+Manatee,Manatee,808573000,Florida,2015
+Saint Johns,Saint Johns,748806000,Florida,2015
+Marion_FL,Marion,745553000,Florida,2015
+Indian River,Indian River,719854000,Florida,2015
+Martin_FL,Martin,697868000,Florida,2015
+Charlotte,Charlotte,675939000,Florida,2015
+Leon,Leon,639914000,Florida,2015
+Lake,Lake,544905000,Florida,2015
+Escambia,Escambia,513369000,Florida,2015
+Saint Lucie,Saint Lucie,433283000,Florida,2015
+Sumter_FL,Sumter,320726000,Florida,2015
+Flagler,Flagler,293169000,Florida,2015
+Osceola,Osceola,292179000,Florida,2015
+Okaloosa,Okaloosa,266512000,Florida,2015
+Clay_FL,Clay,259793000,Florida,2015
+Bay,Bay,208164000,Florida,2015
+Highlands,Highlands,207316000,Florida,2015
+Nassau,Nassau,172523000,Florida,2015
+Monroe,Monroe,168163000,Florida,2015
+Hernando,Hernando,164154000,Florida,2015
+Citrus,Citrus,107813000,Florida,2015
+Walton_FL,Walton,71410000,Florida,2015
+Jackson_FL,Jackson,53774000,Florida,2015
+Baker,Baker,49780000,Florida,2015
+Santa Rosa,Santa Rosa,42210000,Florida,2015
+Madison_FL,Madison,40087000,Florida,2015
+De Soto,De Soto,39925000,Florida,2015
+Washington_FL,Washington,34644000,Florida,2015
+Taylor,Taylor,32884000,Florida,2015
+Holmes,Holmes,32290000,Florida,2015
+Montgomery_MD,Montgomery,2708844000,Maryland,2015
+Baltimore City,Baltimore City,2601315000,Maryland,2015
+Baltimore,Baltimore,1912452000,Maryland,2015
+Anne Arundel,Anne Arundel,858934000,Maryland,2015
+Howard,Howard,498491000,Maryland,2015
+Prince Georges,Prince Georges,431048000,Maryland,2015
+Harford,Harford,326092000,Maryland,2015
+Carroll_MD,Carroll,170494000,Maryland,2015
+Charles,Charles,59531000,Maryland,2015
+Frederick_MD,Frederick,56363000,Maryland,2015
+Davidson_TN,Davidson,1147366000,Tennessee,2015
+Shelby_TN,Shelby,438565000,Tennessee,2015
+Williamson,Williamson,156175000,Tennessee,2015
+Fairfax,Fairfax,14094415000,Virginia,2015
+Richmond City,Richmond City,3065374000,Virginia,2015
+Roanoke City,Roanoke City,1640830000,Virginia,2015
+Henrico,Henrico,1439608000,Virginia,2015
+Norfolk City,Norfolk City,1398756000,Virginia,2015
+Virginia Beach City,Virginia Beach City,1306217000,Virginia,2015
+Chesterfield_VA,Chesterfield,1273056000,Virginia,2015
+Arlington,Arlington,1044399000,Virginia,2015
+Alexandria City,Alexandria City,853450000,Virginia,2015
+Loudoun,Loudoun,808072000,Virginia,2015
+Prince William,Prince William,714470000,Virginia,2015
+Charlottesville City,Charlottesville City,563476000,Virginia,2015
+Chesapeake City,Chesapeake City,479800000,Virginia,2015
+Fairfax City,Fairfax City,448223000,Virginia,2015
+Lynchburg City,Lynchburg City,419186000,Virginia,2015
+Montgomery_VA,Montgomery,330930000,Virginia,2015
+Harrisonburg City,Harrisonburg City,312683000,Virginia,2015
+Winchester City,Winchester City,289754000,Virginia,2015
+Spotsylvania,Spotsylvania,273606000,Virginia,2015
+Newport News City,Newport News City,263903000,Virginia,2015
+Hanover,Hanover,247851000,Virginia,2015
+Bristol,Bristol,233492000,Virginia,2015
+Roanoke,Roanoke,228267000,Virginia,2015
+Portsmouth City,Portsmouth City,222572000,Virginia,2015
+Albemarle,Albemarle,207251000,Virginia,2015
+Campbell,Campbell,204566000,Virginia,2015
+James City,James City,204193000,Virginia,2015
+Falls Church City,Falls Church City,195918000,Virginia,2015
+Culpeper,Culpeper,179324000,Virginia,2015
+Hampton City,Hampton City,175764000,Virginia,2015
+Bedford,Bedford,175755000,Virginia,2015
+Stafford,Stafford,175021000,Virginia,2015
+Salem,Salem,159496000,Virginia,2015
+York_VA,York,148644000,Virginia,2015
+Colonial Heights City,Colonial Heights City,144906000,Virginia,2015
+Manassas City,Manassas City,131096000,Virginia,2015
+Fredericksburg City,Fredericksburg City,129861000,Virginia,2015
+Washington_VA,Washington,121071000,Virginia,2015
+Frederick_VA,Frederick,121053000,Virginia,2015
+Goochland,Goochland,120483000,Virginia,2015
+Orange_VA,Orange,110841000,Virginia,2015
+Warren,Warren,106190000,Virginia,2015
+Petersburg City,Petersburg City,105098000,Virginia,2015
+Fauquier,Fauquier,102029000,Virginia,2015
+Tazewell,Tazewell,96421000,Virginia,2015
+Amherst,Amherst,94077000,Virginia,2015
+Lexington City,Lexington City,81397000,Virginia,2015
+Williamsburg City,Williamsburg City,79263000,Virginia,2015
+Rockingham_VA,Rockingham,75050000,Virginia,2015
+Mecklenburg_VA,Mecklenburg,73853000,Virginia,2015
+Galax City,Galax City,71779000,Virginia,2015
+Suffolk City,Suffolk City,69553000,Virginia,2015
+Hopewell City,Hopewell City,67709000,Virginia,2015
+Halifax,Halifax,66431000,Virginia,2015
+Louisa,Louisa,62739000,Virginia,2015
+Smyth,Smyth,58219000,Virginia,2015
+Appomattox,Appomattox,57540000,Virginia,2015
+Norton City,Norton City,56313000,Virginia,2015
+Buchanan,Buchanan,56113000,Virginia,2015
+Waynesboro City,Waynesboro City,53807000,Virginia,2015
+Gloucester,Gloucester,53531000,Virginia,2015
+Wise,Wise,53424000,Virginia,2015
+Danville City,Danville City,52638000,Virginia,2015
+Madison_VA,Madison,52616000,Virginia,2015
+Prince Edward,Prince Edward,52601000,Virginia,2015
+Poquoson City,Poquoson City,50658000,Virginia,2015
+Covington City,Covington City,42762000,Virginia,2015
+Pulaski,Pulaski,42392000,Virginia,2015
+Dickenson,Dickenson,42153000,Virginia,2015
+Amelia,Amelia,39700000,Virginia,2015
+Powhatan,Powhatan,35670000,Virginia,2015
+Henry_VA,Henry,34940000,Virginia,2015
+Nelson,Nelson,34832000,Virginia,2015
+Isle Of Wight,Isle Of Wight,34730000,Virginia,2015
+Radford,Radford,23204000,Virginia,2015
+Jefferson,Jefferson,3609180000,Alabama,2015
+Montgomery_AL,Montgomery,634254000,Alabama,2015
+Baldwin,Baldwin,597278000,Alabama,2015
+Mobile,Mobile,590060000,Alabama,2015
+Madison_AL,Madison,583193000,Alabama,2015
+Shelby_AL,Shelby,356964000,Alabama,2015
+Houston_AL,Houston,321048000,Alabama,2015
+Calhoun_AL,Calhoun,247844000,Alabama,2015
+Tuscaloosa,Tuscaloosa,202496000,Alabama,2015
+Lee_AL,Lee,168938000,Alabama,2015
+Etowah,Etowah,167856000,Alabama,2015
+Marshall,Marshall,155368000,Alabama,2015
+Colbert,Colbert,142589000,Alabama,2015
+Covington,Covington,124690000,Alabama,2015
+Morgan,Morgan,116730000,Alabama,2015
+Lauderdale,Lauderdale,102258000,Alabama,2015
+Cullman,Cullman,100738000,Alabama,2015
+Dale,Dale,92071000,Alabama,2015
+Coffee_AL,Coffee,88319000,Alabama,2015
+Tallapoosa,Tallapoosa,79104000,Alabama,2015
+Marion_AL,Marion,78346000,Alabama,2015
+Dallas,Dallas,70610000,Alabama,2015
+Pike,Pike,65633000,Alabama,2015
+Russell,Russell,47205000,Alabama,2015
+Walker_AL,Walker,38007000,Alabama,2015
+Autauga,Autauga,31010000,Alabama,2015
+Henry_AL,Henry,28647000,Alabama,2015
+Talladega,Talladega,24383000,Alabama,2015
+Elmore,Elmore,23055000,Alabama,2015
+Randolph_AL,Randolph,17266000,Alabama,2015
+Clay_AL,Clay,15459000,Alabama,2015
+Mecklenburg_NC,Mecklenburg,35279887000,North Carolina,2014
+Wake,Wake,7135064000,North Carolina,2014
+Forsyth_NC,Forsyth,2276344000,North Carolina,2014
+Guilford,Guilford,1608262000,North Carolina,2014
+Durham,Durham,1218709000,North Carolina,2014
+Buncombe,Buncombe,953936000,North Carolina,2014
+New Hanover,New Hanover,988363000,North Carolina,2014
+Iredell,Iredell,585903000,North Carolina,2014
+Cabarrus,Cabarrus,549600000,North Carolina,2014
+Orange_NC,Orange,1015333000,North Carolina,2014
+Gaston,Gaston,429049000,North Carolina,2014
+Alamance,Alamance,448825000,North Carolina,2014
+Catawba,Catawba,420377000,North Carolina,2014
+Cumberland,Cumberland,420717000,North Carolina,2014
+Pitt,Pitt,388118000,North Carolina,2014
+Watauga,Watauga,227433000,North Carolina,2014
+Union_NC,Union,224402000,North Carolina,2014
+Henderson,Henderson,246378000,North Carolina,2014
+Rowan,Rowan,229878000,North Carolina,2014
+Wayne,Wayne,218694000,North Carolina,2014
+Moore,Moore,199369000,North Carolina,2014
+Randolph_NC,Randolph,221403000,North Carolina,2014
+Davidson_NC,Davidson,218751000,North Carolina,2014
+Carteret,Carteret,198467000,North Carolina,2014
+Surry,Surry,204785000,North Carolina,2014
+Craven,Craven,164718000,North Carolina,2014
+Wilkes,Wilkes,185087000,North Carolina,2014
+Nash,Nash,176987000,North Carolina,2014
+Wilson,Wilson,168851000,North Carolina,2014
+Burke,Burke,331275000,North Carolina,2014
+Pasquotank,Pasquotank,148962000,North Carolina,2014
+Dare,Dare,127554000,North Carolina,2014
+Beaufort_NC,Beaufort,142854000,North Carolina,2014
+Onslow,Onslow,148606000,North Carolina,2014
+Lenoir,Lenoir,139558000,North Carolina,2014
+Stanly,Stanly,128538000,North Carolina,2014
+Rutherford,Rutherford,117860000,North Carolina,2014
+Haywood,Haywood,173242000,North Carolina,2014
+Rockingham_NC,Rockingham,120211000,North Carolina,2014
+Cleveland,Cleveland,109091000,North Carolina,2014
+Transylvania,Transylvania,93778000,North Carolina,2014
+Jackson_NC,Jackson,96361000,North Carolina,2014
+Caldwell,Caldwell,90168000,North Carolina,2014
+Macon,Macon,90529000,North Carolina,2014
+Person,Person,86366000,North Carolina,2014
+Yancey,Yancey,76613000,North Carolina,2014
+Scotland,Scotland,75942000,North Carolina,2014
+Madison_NC,Madison,67015000,North Carolina,2014
+Martin_NC,Martin,43178000,North Carolina,2014
+Johnston,Johnston,55926000,North Carolina,2014
+Brunswick,Brunswick,39113000,North Carolina,2014
+Mitchell,Mitchell,55219000,North Carolina,2014
+Chatham_NC,Chatham,55650000,North Carolina,2014
+Lee_NC,Lee,49726000,North Carolina,2014
+Mcdowell,Mcdowell,50948000,North Carolina,2014
+Davie,Davie,53476000,North Carolina,2014
+Robeson,Robeson,43199000,North Carolina,2014
+Bladen,Bladen,47321000,North Carolina,2014
+Pamlico,Pamlico,45233000,North Carolina,2014
+Alexander,Alexander,43240000,North Carolina,2014
+Avery,Avery,38565000,North Carolina,2014
+Sampson,Sampson,39987000,North Carolina,2014
+Yadkin,Yadkin,36467000,North Carolina,2014
+Hertford,Hertford,37756000,North Carolina,2014
+Stokes,Stokes,34504000,North Carolina,2014
+Greene_NC,Greene,32059000,North Carolina,2014
+Bertie,Bertie,23711000,North Carolina,2014
+Richland,Richland,4181060000,South Carolina,2014
+Charleston,Charleston,2069856000,South Carolina,2014
+Greenville,Greenville,1762432000,South Carolina,2014
+Beaufort_SC,Beaufort,644215000,South Carolina,2014
+Lexington,Lexington,605838000,South Carolina,2014
+Florence,Florence,571395000,South Carolina,2014
+Horry,Horry,532615000,South Carolina,2014
+York_SC,York,493285000,South Carolina,2014
+Spartanburg,Spartanburg,437337000,South Carolina,2014
+Anderson,Anderson,325869000,South Carolina,2014
+Pickens,Pickens,254715000,South Carolina,2014
+Georgetown,Georgetown,195437000,South Carolina,2014
+Dorchester,Dorchester,184123000,South Carolina,2014
+Greenwood,Greenwood,182218000,South Carolina,2014
+Aiken,Aiken,180233000,South Carolina,2014
+Sumter_SC,Sumter,176598000,South Carolina,2014
+Oconee_SC,Oconee,165531000,South Carolina,2014
+Berkeley,Berkeley,99452000,South Carolina,2014
+Lancaster,Lancaster,95749000,South Carolina,2014
+Darlington,Darlington,90708000,South Carolina,2014
+Kershaw,Kershaw,81724000,South Carolina,2014
+Newberry,Newberry,68414000,South Carolina,2014
+Cherokee_SC,Cherokee,51902000,South Carolina,2014
+Calhoun_SC,Calhoun,48225000,South Carolina,2014
+Chesterfield_SC,Chesterfield,46806000,South Carolina,2014
+Marlboro,Marlboro,41838000,South Carolina,2014
+Edgefield,Edgefield,40483000,South Carolina,2014
+Union_SC,Union,40638000,South Carolina,2014
+Laurens_SC,Laurens,37209000,South Carolina,2014
+Dillon,Dillon,31892000,South Carolina,2014
+Fairfield,Fairfield,28605000,South Carolina,2014
+Colleton,Colleton,27384000,South Carolina,2014
+Bamberg,Bamberg,26769000,South Carolina,2014
+Marion_SC,Marion,25083000,South Carolina,2014
+Fulton,Fulton,15359174000,Georgia,2014
+Cobb,Cobb,2662589000,Georgia,2014
+Gwinnett,Gwinnett,2479732000,Georgia,2014
+Dekalb,Dekalb,2428291000,Georgia,2014
+Chatham_GA,Chatham,1225597000,Georgia,2014
+Richmond,Richmond,950928000,Georgia,2014
+Forsyth_GA,Forsyth,762390000,Georgia,2014
+Cherokee_GA,Cherokee,639117000,Georgia,2014
+Muscogee,Muscogee,666990000,Georgia,2014
+Hall,Hall,565656000,Georgia,2014
+Columbia,Columbia,391764000,Georgia,2014
+Fayette,Fayette,381177000,Georgia,2014
+Whitfield,Whitfield,360635000,Georgia,2014
+Clayton,Clayton,303765000,Georgia,2014
+Henry_GA,Henry,276313000,Georgia,2014
+Clarke,Clarke,299697000,Georgia,2014
+Bibb,Bibb,247998000,Georgia,2014
+Bartow,Bartow,167289000,Georgia,2014
+Floyd,Floyd,179946000,Georgia,2014
+Walton_GA,Walton,167905000,Georgia,2014
+Rockdale,Rockdale,159048000,Georgia,2014
+Coweta,Coweta,119744000,Georgia,2014
+Douglas,Douglas,118216000,Georgia,2014
+Paulding,Paulding,98302000,Georgia,2014
+Bulloch,Bulloch,91474000,Georgia,2014
+Houston_GA,Houston,87516000,Georgia,2014
+Sumter_GA,Sumter,87107000,Georgia,2014
+Spalding,Spalding,82325000,Georgia,2014
+Carroll_GA,Carroll,70606000,Georgia,2014
+Catoosa,Catoosa,71220000,Georgia,2014
+Newton,Newton,57045000,Georgia,2014
+Gordon,Gordon,53294000,Georgia,2014
+Glynn,Glynn,52809000,Georgia,2014
+Oconee_GA,Oconee,0,Georgia,2014
+Lumpkin,Lumpkin,50277000,Georgia,2014
+Jackson_GA,Jackson,33292000,Georgia,2014
+Greene_GA,Greene,43550000,Georgia,2014
+Chattahoochee,Chattahoochee,44207000,Georgia,2014
+Harris,Harris,41806000,Georgia,2014
+Liberty,Liberty,37669000,Georgia,2014
+Coffee_GA,Coffee,31309000,Georgia,2014
+Barrow,Barrow,28066000,Georgia,2014
+Laurens_GA,Laurens,23289000,Georgia,2014
+Washington_GA,Washington,22725000,Georgia,2014
+Walker_GA,Walker,18907000,Georgia,2014
+Murray,Murray,19166000,Georgia,2014
+Meriwether,Meriwether,16099000,Georgia,2014
+Telfair,Telfair,9940000,Georgia,2014
+Ben Hill,Ben Hill,13797000,Georgia,2014
+Hinds,Hinds,222102000,Mississippi,2014
+Harrison,Harrison,169181000,Mississippi,2014
+Forrest,Forrest,132788000,Mississippi,2014
+Jackson_MS,Jackson,72233000,Mississippi,2014
+Rankin,Rankin,36436000,Mississippi,2014
+Madison_MS,Madison,28236000,Mississippi,2014
+Lamar,Lamar,19630000,Mississippi,2014
+Desoto,Desoto,20378000,Mississippi,2014
+Miami-Dade,Miami-Dade,14475867000,Florida,2014
+Palm Beach,Palm Beach,8727124000,Florida,2014
+Broward,Broward,8123242000,Florida,2014
+Hillsborough,Hillsborough,5016863000,Florida,2014
+Orange_FL,Orange,5256816000,Florida,2014
+Duval,Duval,4790735000,Florida,2014
+Pinellas,Pinellas,3499607000,Florida,2014
+Lee_FL,Lee,2123487000,Florida,2014
+Sarasota,Sarasota,1831525000,Florida,2014
+Collier,Collier,1568274000,Florida,2014
+Brevard,Brevard,1646962000,Florida,2014
+Volusia,Volusia,1608350000,Florida,2014
+Polk,Polk,1073182000,Florida,2014
+Pasco,Pasco,1033797000,Florida,2014
+Alachua,Alachua,767731000,Florida,2014
+Seminole,Seminole,791499000,Florida,2014
+Manatee,Manatee,754150000,Florida,2014
+Saint Johns,Saint Johns,717079000,Florida,2014
+Marion_FL,Marion,720899000,Florida,2014
+Indian River,Indian River,714443000,Florida,2014
+Martin_FL,Martin,702399000,Florida,2014
+Charlotte,Charlotte,669328000,Florida,2014
+Leon,Leon,572530000,Florida,2014
+Lake,Lake,671552000,Florida,2014
+Escambia,Escambia,507064000,Florida,2014
+Saint Lucie,Saint Lucie,412179000,Florida,2014
+Sumter_FL,Sumter,148389000,Florida,2014
+Flagler,Flagler,282867000,Florida,2014
+Osceola,Osceola,261842000,Florida,2014
+Okaloosa,Okaloosa,240203000,Florida,2014
+Clay_FL,Clay,249016000,Florida,2014
+Bay,Bay,181142000,Florida,2014
+Highlands,Highlands,201003000,Florida,2014
+Nassau,Nassau,165090000,Florida,2014
+Monroe,Monroe,156410000,Florida,2014
+Hernando,Hernando,164993000,Florida,2014
+Citrus,Citrus,108757000,Florida,2014
+Walton_FL,Walton,65405000,Florida,2014
+Jackson_FL,Jackson,66080000,Florida,2014
+Baker,Baker,51472000,Florida,2014
+Santa Rosa,Santa Rosa,39582000,Florida,2014
+Madison_FL,Madison,39098000,Florida,2014
+De Soto,De Soto,39351000,Florida,2014
+Washington_FL,Washington,34546000,Florida,2014
+Taylor,Taylor,36074000,Florida,2014
+Holmes,Holmes,27864000,Florida,2014
+Montgomery_MD,Montgomery,2553961000,Maryland,2014
+Baltimore City,Baltimore City,2431324000,Maryland,2014
+Baltimore,Baltimore,1859768000,Maryland,2014
+Anne Arundel,Anne Arundel,857405000,Maryland,2014
+Howard,Howard,465313000,Maryland,2014
+Prince Georges,Prince Georges,396664000,Maryland,2014
+Harford,Harford,309980000,Maryland,2014
+Carroll_MD,Carroll,171006000,Maryland,2014
+Charles,Charles,58282000,Maryland,2014
+Frederick_MD,Frederick,149813000,Maryland,2014
+Davidson_TN,Davidson,1200344000,Tennessee,2014
+Shelby_TN,Shelby,455964000,Tennessee,2014
+Williamson,Williamson,133610000,Tennessee,2014
+Fairfax,Fairfax,9398565000,Virginia,2014
+Richmond City,Richmond City,3113331000,Virginia,2014
+Roanoke City,Roanoke City,1599845000,Virginia,2014
+Henrico,Henrico,1345360000,Virginia,2014
+Norfolk City,Norfolk City,1399604000,Virginia,2014
+Virginia Beach City,Virginia Beach City,1273135000,Virginia,2014
+Chesterfield_VA,Chesterfield,1185914000,Virginia,2014
+Arlington,Arlington,983293000,Virginia,2014
+Alexandria City,Alexandria City,814593000,Virginia,2014
+Loudoun,Loudoun,697722000,Virginia,2014
+Prince William,Prince William,706125000,Virginia,2014
+Charlottesville City,Charlottesville City,517903000,Virginia,2014
+Chesapeake City,Chesapeake City,463098000,Virginia,2014
+Fairfax City,Fairfax City,396312000,Virginia,2014
+Lynchburg City,Lynchburg City,435060000,Virginia,2014
+Montgomery_VA,Montgomery,287782000,Virginia,2014
+Harrisonburg City,Harrisonburg City,308482000,Virginia,2014
+Winchester City,Winchester City,193869000,Virginia,2014
+Spotsylvania,Spotsylvania,261790000,Virginia,2014
+Newport News City,Newport News City,250652000,Virginia,2014
+Hanover,Hanover,231917000,Virginia,2014
+Bristol,Bristol,224377000,Virginia,2014
+Roanoke,Roanoke,208560000,Virginia,2014
+Portsmouth City,Portsmouth City,224720000,Virginia,2014
+Albemarle,Albemarle,195583000,Virginia,2014
+Campbell,Campbell,208771000,Virginia,2014
+James City,James City,193986000,Virginia,2014
+Falls Church City,Falls Church City,188323000,Virginia,2014
+Culpeper,Culpeper,185918000,Virginia,2014
+Hampton City,Hampton City,172019000,Virginia,2014
+Bedford,Bedford,173475000,Virginia,2014
+Stafford,Stafford,163180000,Virginia,2014
+Salem,Salem,153584000,Virginia,2014
+York_VA,York,143780000,Virginia,2014
+Colonial Heights City,Colonial Heights City,118589000,Virginia,2014
+Manassas City,Manassas City,60686000,Virginia,2014
+Fredericksburg City,Fredericksburg City,126493000,Virginia,2014
+Washington_VA,Washington,107601000,Virginia,2014
+Frederick_VA,Frederick,216177000,Virginia,2014
+Goochland,Goochland,111729000,Virginia,2014
+Orange_VA,Orange,108497000,Virginia,2014
+Warren,Warren,97283000,Virginia,2014
+Petersburg City,Petersburg City,101164000,Virginia,2014
+Fauquier,Fauquier,123221000,Virginia,2014
+Tazewell,Tazewell,79093000,Virginia,2014
+Amherst,Amherst,94936000,Virginia,2014
+Williamsburg City,Williamsburg City,72800000,Virginia,2014
+Rockingham_VA,Rockingham,70029000,Virginia,2014
+Mecklenburg_VA,Mecklenburg,76144000,Virginia,2014
+Galax City,Galax City,72738000,Virginia,2014
+Suffolk City,Suffolk City,71253000,Virginia,2014
+Hopewell City,Hopewell City,69510000,Virginia,2014
+Halifax,Halifax,67682000,Virginia,2014
+Louisa,Louisa,62589000,Virginia,2014
+Smyth,Smyth,59444000,Virginia,2014
+Appomattox,Appomattox,57763000,Virginia,2014
+Norton City,Norton City,53144000,Virginia,2014
+Buchanan,Buchanan,57885000,Virginia,2014
+Waynesboro City,Waynesboro City,49749000,Virginia,2014
+Gloucester,Gloucester,53919000,Virginia,2014
+Wise,Wise,56215000,Virginia,2014
+Madison_VA,Madison,55852000,Virginia,2014
+Prince Edward,Prince Edward,52337000,Virginia,2014
+Poquoson City,Poquoson City,50153000,Virginia,2014
+Covington City,Covington City,40185000,Virginia,2014
+Pulaski,Pulaski,40947000,Virginia,2014
+Dickenson,Dickenson,42953000,Virginia,2014
+Amelia,Amelia,39112000,Virginia,2014
+Powhatan,Powhatan,33246000,Virginia,2014
+Henry_VA,Henry,35775000,Virginia,2014
+Nelson,Nelson,33890000,Virginia,2014
+Isle Of Wight,Isle Of Wight,35753000,Virginia,2014
+Radford,Radford,39871000,Virginia,2014
+Pittsylvania,Pittsylvania,50510000,Virginia,2014
+Rockbridge,Rockbridge,74948000,Virginia,2014
+Jefferson,Jefferson,3539231000,Alabama,2014
+Montgomery_AL,Montgomery,747173000,Alabama,2014
+Baldwin,Baldwin,512559000,Alabama,2014
+Mobile,Mobile,561541000,Alabama,2014
+Madison_AL,Madison,572794000,Alabama,2014
+Shelby_AL,Shelby,336300000,Alabama,2014
+Houston_AL,Houston,313812000,Alabama,2014
+Calhoun_AL,Calhoun,247995000,Alabama,2014
+Tuscaloosa,Tuscaloosa,195727000,Alabama,2014
+Lee_AL,Lee,157374000,Alabama,2014
+Etowah,Etowah,154895000,Alabama,2014
+Marshall,Marshall,152861000,Alabama,2014
+Colbert,Colbert,40568000,Alabama,2014
+Covington,Covington,124501000,Alabama,2014
+Morgan,Morgan,118202000,Alabama,2014
+Lauderdale,Lauderdale,102897000,Alabama,2014
+Cullman,Cullman,97210000,Alabama,2014
+Dale,Dale,91040000,Alabama,2014
+Coffee_AL,Coffee,84316000,Alabama,2014
+Tallapoosa,Tallapoosa,74952000,Alabama,2014
+Marion_AL,Marion,75286000,Alabama,2014
+Dallas,Dallas,74244000,Alabama,2014
+Pike,Pike,68780000,Alabama,2014
+Russell,Russell,44937000,Alabama,2014
+Walker_AL,Walker,36574000,Alabama,2014
+Autauga,Autauga,29723000,Alabama,2014
+Henry_AL,Henry,30608000,Alabama,2014
+Talladega,Talladega,25293000,Alabama,2014
+Elmore,Elmore,22514000,Alabama,2014
+Randolph_AL,Randolph,18277000,Alabama,2014
+Clay_AL,Clay,14656000,Alabama,2014

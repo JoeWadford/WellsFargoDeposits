@@ -1,0 +1,647 @@
+,County,Bank Deposits,State,Year
+1,Mecklenburg,34233644000,North Carolina,2015
+2,Wake,6951148000,North Carolina,2015
+3,Forsyth,2281152000,North Carolina,2015
+4,Guilford,1687599000,North Carolina,2015
+5,Durham,1257385000,North Carolina,2015
+6,Buncombe,1093249000,North Carolina,2015
+7,New Hanover,1015433000,North Carolina,2015
+8,Iredell,607525000,North Carolina,2015
+9,Cabarrus,589440000,North Carolina,2015
+10,Orange,485632000,North Carolina,2015
+11,Gaston,473808000,North Carolina,2015
+12,Alamance,467982000,North Carolina,2015
+13,Catawba,452595000,North Carolina,2015
+14,Cumberland,432205000,North Carolina,2015
+15,Pitt,364592000,North Carolina,2015
+16,Watauga,255344000,North Carolina,2015
+17,Union,247379000,North Carolina,2015
+18,Henderson,241760000,North Carolina,2015
+19,Rowan,228309000,North Carolina,2015
+20,Wayne,223481000,North Carolina,2015
+21,Moore,218287000,North Carolina,2015
+22,Randolph,217166000,North Carolina,2015
+23,Davidson,215045000,North Carolina,2015
+24,Carteret,213578000,North Carolina,2015
+25,Surry,208518000,North Carolina,2015
+26,Craven,197183000,North Carolina,2015
+27,Wilkes,190503000,North Carolina,2015
+28,Nash,182857000,North Carolina,2015
+29,Wilson,177753000,North Carolina,2015
+30,Burke,177723000,North Carolina,2015
+31,Pasquotank,154937000,North Carolina,2015
+32,Dare,143892000,North Carolina,2015
+33,Beaufort,141395000,North Carolina,2015
+34,Onslow,138979000,North Carolina,2015
+35,Lenoir,138165000,North Carolina,2015
+36,Stanly,137237000,North Carolina,2015
+37,Rutherford,119280000,North Carolina,2015
+38,Haywood,118294000,North Carolina,2015
+39,Rockingham,117807000,North Carolina,2015
+40,Cleveland,116465000,North Carolina,2015
+41,Transylvania,102182000,North Carolina,2015
+42,Jackson,99006000,North Carolina,2015
+43,Caldwell,93594000,North Carolina,2015
+44,Macon,90649000,North Carolina,2015
+45,Person,84730000,North Carolina,2015
+46,Yancey,75124000,North Carolina,2015
+47,Scotland,74203000,North Carolina,2015
+48,Madison,66346000,North Carolina,2015
+49,Martin,66303000,North Carolina,2015
+50,Johnston,64789000,North Carolina,2015
+51,Brunswick,61656000,North Carolina,2015
+52,Mitchell,58338000,North Carolina,2015
+53,Chatham,55705000,North Carolina,2015
+54,Lee,53249000,North Carolina,2015
+55,Mcdowell,52658000,North Carolina,2015
+56,Davie,50683000,North Carolina,2015
+57,Robeson,48066000,North Carolina,2015
+58,Bladen,47648000,North Carolina,2015
+59,Pamlico,45235000,North Carolina,2015
+60,Alexander,43018000,North Carolina,2015
+61,Avery,41570000,North Carolina,2015
+62,Sampson,38524000,North Carolina,2015
+63,Yadkin,37655000,North Carolina,2015
+64,Hertford,37320000,North Carolina,2015
+65,Stokes,36035000,North Carolina,2015
+66,Greene,31522000,North Carolina,2015
+67,Bertie,23777000,North Carolina,2015
+68,Richland,4206224000,South Carolina,2015
+69,Charleston,2471857000,South Carolina,2015
+70,Greenville,2036014000,South Carolina,2015
+71,Beaufort,693254000,South Carolina,2015
+72,Lexington,635180000,South Carolina,2015
+73,Florence,596312000,South Carolina,2015
+74,Horry,584717000,South Carolina,2015
+75,York,531197000,South Carolina,2015
+76,Spartanburg,471600000,South Carolina,2015
+77,Anderson,344117000,South Carolina,2015
+78,Pickens,263463000,South Carolina,2015
+79,Georgetown,210729000,South Carolina,2015
+80,Dorchester,201478000,South Carolina,2015
+81,Greenwood,189947000,South Carolina,2015
+82,Aiken,189202000,South Carolina,2015
+83,Sumter,187351000,South Carolina,2015
+84,Oconee,182889000,South Carolina,2015
+85,Berkeley,128496000,South Carolina,2015
+86,Lancaster,96936000,South Carolina,2015
+87,Darlington,93460000,South Carolina,2015
+88,Kershaw,82778000,South Carolina,2015
+89,Newberry,70435000,South Carolina,2015
+90,Cherokee,52839000,South Carolina,2015
+91,Calhoun,49676000,South Carolina,2015
+92,Chesterfield,46900000,South Carolina,2015
+93,Marlboro,44779000,South Carolina,2015
+94,Edgefield,42307000,South Carolina,2015
+95,Union,39433000,South Carolina,2015
+96,Laurens,38410000,South Carolina,2015
+97,Dillon,33157000,South Carolina,2015
+98,Fairfield,30830000,South Carolina,2015
+99,Colleton,28816000,South Carolina,2015
+100,Bamberg,28426000,South Carolina,2015
+101,Marion,25655000,South Carolina,2015
+102,Fulton,15772440000,Georgia,2015
+103,Cobb,2943595000,Georgia,2015
+104,Gwinnett,2703696000,Georgia,2015
+105,Dekalb,2556448000,Georgia,2015
+106,Chatham,1182267000,Georgia,2015
+107,Richmond,965873000,Georgia,2015
+108,Forsyth,851343000,Georgia,2015
+109,Cherokee,710152000,Georgia,2015
+110,Muscogee,614694000,Georgia,2015
+111,Hall,543878000,Georgia,2015
+112,Columbia,419260000,Georgia,2015
+113,Fayette,400491000,Georgia,2015
+114,Whitfield,359654000,Georgia,2015
+115,Clayton,315080000,Georgia,2015
+116,Henry,291063000,Georgia,2015
+117,Clarke,270834000,Georgia,2015
+118,Bibb,256553000,Georgia,2015
+119,Bartow,178016000,Georgia,2015
+120,Floyd,174592000,Georgia,2015
+121,Walton,174233000,Georgia,2015
+122,Rockdale,173714000,Georgia,2015
+123,Coweta,132262000,Georgia,2015
+124,Douglas,130379000,Georgia,2015
+125,Paulding,106179000,Georgia,2015
+126,Bulloch,102890000,Georgia,2015
+127,Houston,99843000,Georgia,2015
+128,Sumter,96657000,Georgia,2015
+129,Spalding,82503000,Georgia,2015
+130,Carroll,77466000,Georgia,2015
+131,Catoosa,74415000,Georgia,2015
+132,Newton,65466000,Georgia,2015
+133,Gordon,58022000,Georgia,2015
+134,Glynn,54975000,Georgia,2015
+135,Oconee,53233000,Georgia,2015
+136,Lumpkin,51752000,Georgia,2015
+137,Jackson,50513000,Georgia,2015
+138,Greene,49914000,Georgia,2015
+139,Chattahoochee,47437000,Georgia,2015
+140,Harris,45287000,Georgia,2015
+141,Liberty,42031000,Georgia,2015
+142,Coffee,34192000,Georgia,2015
+143,Barrow,29518000,Georgia,2015
+144,Laurens,26069000,Georgia,2015
+145,Washington,23909000,Georgia,2015
+146,Walker,19446000,Georgia,2015
+147,Murray,19265000,Georgia,2015
+148,Meriwether,15349000,Georgia,2015
+149,Telfair,14970000,Georgia,2015
+150,Ben Hill,14892000,Georgia,2015
+151,Hinds,258231000,Mississippi,2015
+152,Harrison,180302000,Mississippi,2015
+153,Forrest,124026000,Mississippi,2015
+154,Jackson,73675000,Mississippi,2015
+155,Rankin,37047000,Mississippi,2015
+156,Madison,33222000,Mississippi,2015
+157,Lamar,30424000,Mississippi,2015
+158,Desoto,27924000,Mississippi,2015
+159,Miami-Dade,17031437000,Florida,2015
+160,Palm Beach,9396914000,Florida,2015
+161,Broward,8907492000,Florida,2015
+162,Hillsborough,4684723000,Florida,2015
+163,Orange,4629309000,Florida,2015
+164,Duval,4516059000,Florida,2015
+165,Pinellas,3553562000,Florida,2015
+166,Lee,2266098000,Florida,2015
+167,Sarasota,1881986000,Florida,2015
+168,Collier,1695294000,Florida,2015
+169,Brevard,1658493000,Florida,2015
+170,Volusia,1616334000,Florida,2015
+171,Polk,1076694000,Florida,2015
+172,Pasco,1030507000,Florida,2015
+173,Alachua,906984000,Florida,2015
+174,Seminole,864004000,Florida,2015
+175,Manatee,808573000,Florida,2015
+176,Saint Johns,748806000,Florida,2015
+177,Marion,745553000,Florida,2015
+178,Indian River,719854000,Florida,2015
+179,Martin,697868000,Florida,2015
+180,Charlotte,675939000,Florida,2015
+181,Leon,639914000,Florida,2015
+182,Lake,544905000,Florida,2015
+183,Escambia,513369000,Florida,2015
+184,Saint Lucie,433283000,Florida,2015
+185,Sumter,320726000,Florida,2015
+186,Flagler,293169000,Florida,2015
+187,Osceola,292179000,Florida,2015
+188,Okaloosa,266512000,Florida,2015
+189,Clay,259793000,Florida,2015
+190,Bay,208164000,Florida,2015
+191,Highlands,207316000,Florida,2015
+192,Nassau,172523000,Florida,2015
+193,Monroe,168163000,Florida,2015
+194,Hernando,164154000,Florida,2015
+195,Citrus,107813000,Florida,2015
+196,Walton,71410000,Florida,2015
+197,Jackson,53774000,Florida,2015
+198,Baker,49780000,Florida,2015
+199,Santa Rosa,42210000,Florida,2015
+200,Madison,40087000,Florida,2015
+201,De Soto,39925000,Florida,2015
+202,Washington,34644000,Florida,2015
+203,Taylor,32884000,Florida,2015
+204,Holmes,32290000,Florida,2015
+206,Montgomery,2708844000,Maryland,2015
+207,Baltimore City,2601315000,Maryland,2015
+208,Baltimore,1912452000,Maryland,2015
+209,Anne Arundel,858934000,Maryland,2015
+210,Howard,498491000,Maryland,2015
+211,Prince Georges,431048000,Maryland,2015
+212,Harford,326092000,Maryland,2015
+213,Carroll,170494000,Maryland,2015
+214,Charles,59531000,Maryland,2015
+215,Frederick,56363000,Maryland,2015
+216,Davidson,1147366000,Tennessee,2015
+217,Shelby,438565000,Tennessee,2015
+218,Williamson,156175000,Tennessee,2015
+219,Fairfax,14094415000,Virginia,2015
+220,Richmond City,3065374000,Virginia,2015
+221,Roanoke City,1640830000,Virginia,2015
+222,Henrico,1439608000,Virginia,2015
+223,Norfolk City,1398756000,Virginia,2015
+224,Virginia Beach City,1306217000,Virginia,2015
+225,Chesterfield,1273056000,Virginia,2015
+226,Arlington,1044399000,Virginia,2015
+227,Alexandria City,853450000,Virginia,2015
+228,Loudoun,808072000,Virginia,2015
+229,Prince William,714470000,Virginia,2015
+230,Charlottesville City,563476000,Virginia,2015
+231,Chesapeake City,479800000,Virginia,2015
+232,Fairfax City,448223000,Virginia,2015
+233,Lynchburg City,419186000,Virginia,2015
+234,Montgomery,330930000,Virginia,2015
+235,Harrisonburg City,312683000,Virginia,2015
+236,Winchester City,289754000,Virginia,2015
+237,Spotsylvania,273606000,Virginia,2015
+238,Newport News City,263903000,Virginia,2015
+239,Hanover,247851000,Virginia,2015
+240,Bristol,233492000,Virginia,2015
+241,Roanoke,228267000,Virginia,2015
+242,Portsmouth City,222572000,Virginia,2015
+243,Albemarle,207251000,Virginia,2015
+244,Campbell,204566000,Virginia,2015
+245,James City,204193000,Virginia,2015
+246,Falls Church City,195918000,Virginia,2015
+247,Culpeper,179324000,Virginia,2015
+248,Hampton City,175764000,Virginia,2015
+249,Bedford,175755000,Virginia,2015
+250,Stafford,175021000,Virginia,2015
+251,Salem,159496000,Virginia,2015
+252,York,148644000,Virginia,2015
+253,Colonial Heights City,144906000,Virginia,2015
+254,Manassas City,131096000,Virginia,2015
+255,Fredericksburg City,129861000,Virginia,2015
+256,Washington,121071000,Virginia,2015
+257,Frederick,121053000,Virginia,2015
+258,Goochland,120483000,Virginia,2015
+259,Orange,110841000,Virginia,2015
+260,Warren,106190000,Virginia,2015
+261,Petersburg City,105098000,Virginia,2015
+262,Fauquier,102029000,Virginia,2015
+263,Tazewell,96421000,Virginia,2015
+264,Amherst,94077000,Virginia,2015
+265,Lexington City,81397000,Virginia,2015
+266,Williamsburg City,79263000,Virginia,2015
+267,Rockingham,75050000,Virginia,2015
+268,Mecklenburg,73853000,Virginia,2015
+269,Galax City,71779000,Virginia,2015
+270,Suffolk City,69553000,Virginia,2015
+271,Hopewell City,67709000,Virginia,2015
+272,Halifax,66431000,Virginia,2015
+273,Louisa,62739000,Virginia,2015
+274,Smyth,58219000,Virginia,2015
+275,Appomattox,57540000,Virginia,2015
+276,Norton City,56313000,Virginia,2015
+277,Buchanan,56113000,Virginia,2015
+278,Waynesboro City,53807000,Virginia,2015
+279,Gloucester,53531000,Virginia,2015
+280,Wise,53424000,Virginia,2015
+281,Danville City,52638000,Virginia,2015
+282,Madison,52616000,Virginia,2015
+283,Prince Edward,52601000,Virginia,2015
+284,Poquoson City,50658000,Virginia,2015
+285,Covington City,42762000,Virginia,2015
+286,Pulaski,42392000,Virginia,2015
+287,Dickenson,42153000,Virginia,2015
+288,Amelia,39700000,Virginia,2015
+289,Powhatan,35670000,Virginia,2015
+290,Henry,34940000,Virginia,2015
+291,Nelson,34832000,Virginia,2015
+292,Isle Of Wight,34730000,Virginia,2015
+293,Radford,23204000,Virginia,2015
+296,Jefferson,3609180000,Alabama,2015
+297,Montgomery,634254000,Alabama,2015
+298,Baldwin,597278000,Alabama,2015
+299,Mobile,590060000,Alabama,2015
+300,Madison,583193000,Alabama,2015
+301,Shelby,356964000,Alabama,2015
+302,Houston,321048000,Alabama,2015
+303,Calhoun,247844000,Alabama,2015
+304,Tuscaloosa,202496000,Alabama,2015
+305,Lee,168938000,Alabama,2015
+306,Etowah,167856000,Alabama,2015
+307,Marshall,155368000,Alabama,2015
+308,Colbert,142589000,Alabama,2015
+309,Covington,124690000,Alabama,2015
+310,Morgan,116730000,Alabama,2015
+311,Lauderdale,102258000,Alabama,2015
+312,Cullman,100738000,Alabama,2015
+313,Dale,92071000,Alabama,2015
+314,Coffee,88319000,Alabama,2015
+315,Tallapoosa,79104000,Alabama,2015
+316,Marion,78346000,Alabama,2015
+317,Dallas,70610000,Alabama,2015
+318,Pike,65633000,Alabama,2015
+319,Russell,47205000,Alabama,2015
+320,Walker,38007000,Alabama,2015
+321,Autauga,31010000,Alabama,2015
+322,Henry,28647000,Alabama,2015
+323,Talladega,24383000,Alabama,2015
+324,Elmore,23055000,Alabama,2015
+325,Randolph,17266000,Alabama,2015
+326,Clay,15459000,Alabama,2015
+327,Mecklenburg,35279887000,North Carolina,2014
+328,Wake,7135064000,North Carolina,2014
+329,Forsyth,2276344000,North Carolina,2014
+330,Guilford,1608262000,North Carolina,2014
+331,Durham,1218709000,North Carolina,2014
+332,Buncombe,953936000,North Carolina,2014
+333,New Hanover,988363000,North Carolina,2014
+334,Iredell,585903000,North Carolina,2014
+335,Cabarrus,549600000,North Carolina,2014
+336,Orange,1015333000,North Carolina,2014
+337,Gaston,429049000,North Carolina,2014
+338,Alamance,448825000,North Carolina,2014
+339,Catawba,420377000,North Carolina,2014
+340,Cumberland,420717000,North Carolina,2014
+341,Pitt,388118000,North Carolina,2014
+342,Watauga,227433000,North Carolina,2014
+343,Union,224402000,North Carolina,2014
+344,Henderson,246378000,North Carolina,2014
+345,Rowan,229878000,North Carolina,2014
+346,Wayne,218694000,North Carolina,2014
+347,Moore,199369000,North Carolina,2014
+348,Randolph,221403000,North Carolina,2014
+349,Davidson,218751000,North Carolina,2014
+350,Carteret,198467000,North Carolina,2014
+351,Surry,204785000,North Carolina,2014
+352,Craven,164718000,North Carolina,2014
+353,Wilkes,185087000,North Carolina,2014
+354,Nash,176987000,North Carolina,2014
+355,Wilson,168851000,North Carolina,2014
+356,Burke,331275000,North Carolina,2014
+357,Pasquotank,148962000,North Carolina,2014
+358,Dare,127554000,North Carolina,2014
+359,Beaufort,142854000,North Carolina,2014
+360,Onslow,148606000,North Carolina,2014
+361,Lenoir,139558000,North Carolina,2014
+362,Stanly,128538000,North Carolina,2014
+363,Rutherford,117860000,North Carolina,2014
+364,Haywood,173242000,North Carolina,2014
+365,Rockingham,120211000,North Carolina,2014
+366,Cleveland,109091000,North Carolina,2014
+367,Transylvania,93778000,North Carolina,2014
+368,Jackson,96361000,North Carolina,2014
+369,Caldwell,90168000,North Carolina,2014
+370,Macon,90529000,North Carolina,2014
+371,Person,86366000,North Carolina,2014
+372,Yancey,76613000,North Carolina,2014
+373,Scotland,75942000,North Carolina,2014
+374,Madison,67015000,North Carolina,2014
+375,Martin,43178000,North Carolina,2014
+376,Johnston,55926000,North Carolina,2014
+377,Brunswick,39113000,North Carolina,2014
+378,Mitchell,55219000,North Carolina,2014
+379,Chatham,55650000,North Carolina,2014
+380,Lee,49726000,North Carolina,2014
+381,Mcdowell,50948000,North Carolina,2014
+382,Davie,53476000,North Carolina,2014
+383,Robeson,43199000,North Carolina,2014
+384,Bladen,47321000,North Carolina,2014
+385,Pamlico,45233000,North Carolina,2014
+386,Alexander,43240000,North Carolina,2014
+387,Avery,38565000,North Carolina,2014
+388,Sampson,39987000,North Carolina,2014
+389,Yadkin,36467000,North Carolina,2014
+390,Hertford,37756000,North Carolina,2014
+391,Stokes,34504000,North Carolina,2014
+392,Greene,32059000,North Carolina,2014
+393,Bertie,23711000,North Carolina,2014
+394,Richland,4181060000,South Carolina,2014
+395,Charleston,2069856000,South Carolina,2014
+396,Greenville,1762432000,South Carolina,2014
+397,Beaufort,644215000,South Carolina,2014
+398,Lexington,605838000,South Carolina,2014
+399,Florence,571395000,South Carolina,2014
+400,Horry,532615000,South Carolina,2014
+401,York,493285000,South Carolina,2014
+402,Spartanburg,437337000,South Carolina,2014
+403,Anderson,325869000,South Carolina,2014
+404,Pickens,254715000,South Carolina,2014
+405,Georgetown,195437000,South Carolina,2014
+406,Dorchester,184123000,South Carolina,2014
+407,Greenwood,182218000,South Carolina,2014
+408,Aiken,180233000,South Carolina,2014
+409,Sumter,176598000,South Carolina,2014
+410,Oconee,165531000,South Carolina,2014
+411,Berkeley,99452000,South Carolina,2014
+412,Lancaster,95749000,South Carolina,2014
+413,Darlington,90708000,South Carolina,2014
+414,Kershaw,81724000,South Carolina,2014
+415,Newberry,68414000,South Carolina,2014
+416,Cherokee,51902000,South Carolina,2014
+417,Calhoun,48225000,South Carolina,2014
+418,Chesterfield,46806000,South Carolina,2014
+419,Marlboro,41838000,South Carolina,2014
+420,Edgefield,40483000,South Carolina,2014
+421,Union,40638000,South Carolina,2014
+422,Laurens,37209000,South Carolina,2014
+423,Dillon,31892000,South Carolina,2014
+424,Fairfield,28605000,South Carolina,2014
+425,Colleton,27384000,South Carolina,2014
+426,Bamberg,26769000,South Carolina,2014
+427,Marion,25083000,South Carolina,2014
+428,Fulton,15359174000,Georgia,2014
+429,Cobb,2662589000,Georgia,2014
+430,Gwinnett,2479732000,Georgia,2014
+431,Dekalb,2428291000,Georgia,2014
+432,Chatham,1225597000,Georgia,2014
+433,Richmond,950928000,Georgia,2014
+434,Forsyth,762390000,Georgia,2014
+435,Cherokee,639117000,Georgia,2014
+436,Muscogee,666990000,Georgia,2014
+437,Hall,565656000,Georgia,2014
+438,Columbia,391764000,Georgia,2014
+439,Fayette,381177000,Georgia,2014
+440,Whitfield,360635000,Georgia,2014
+441,Clayton,303765000,Georgia,2014
+442,Henry,276313000,Georgia,2014
+443,Clarke,299697000,Georgia,2014
+444,Bibb,247998000,Georgia,2014
+445,Bartow,167289000,Georgia,2014
+446,Floyd,179946000,Georgia,2014
+447,Walton,167905000,Georgia,2014
+448,Rockdale,159048000,Georgia,2014
+449,Coweta,119744000,Georgia,2014
+450,Douglas,118216000,Georgia,2014
+451,Paulding,98302000,Georgia,2014
+452,Bulloch,91474000,Georgia,2014
+453,Houston,87516000,Georgia,2014
+454,Sumter,87107000,Georgia,2014
+455,Spalding,82325000,Georgia,2014
+456,Carroll,70606000,Georgia,2014
+457,Catoosa,71220000,Georgia,2014
+458,Newton,57045000,Georgia,2014
+459,Gordon,53294000,Georgia,2014
+460,Glynn,52809000,Georgia,2014
+461,Oconee,0,Georgia,2014
+462,Lumpkin,50277000,Georgia,2014
+463,Jackson,33292000,Georgia,2014
+464,Greene,43550000,Georgia,2014
+465,Chattahoochee,44207000,Georgia,2014
+466,Harris,41806000,Georgia,2014
+467,Liberty,37669000,Georgia,2014
+468,Coffee,31309000,Georgia,2014
+469,Barrow,28066000,Georgia,2014
+470,Laurens,23289000,Georgia,2014
+471,Washington,22725000,Georgia,2014
+472,Walker,18907000,Georgia,2014
+473,Murray,19166000,Georgia,2014
+474,Meriwether,16099000,Georgia,2014
+475,Telfair,9940000,Georgia,2014
+476,Ben Hill,13797000,Georgia,2014
+477,Hinds,222102000,Mississippi,2014
+478,Harrison,169181000,Mississippi,2014
+479,Forrest,132788000,Mississippi,2014
+480,Jackson,72233000,Mississippi,2014
+481,Rankin,36436000,Mississippi,2014
+482,Madison,28236000,Mississippi,2014
+483,Lamar,19630000,Mississippi,2014
+484,Desoto,20378000,Mississippi,2014
+485,Miami-Dade,14475867000,Florida,2014
+486,Palm Beach,8727124000,Florida,2014
+487,Broward,8123242000,Florida,2014
+488,Hillsborough,5016863000,Florida,2014
+489,Orange,5256816000,Florida,2014
+490,Duval,4790735000,Florida,2014
+491,Pinellas,3499607000,Florida,2014
+492,Lee,2123487000,Florida,2014
+493,Sarasota,1831525000,Florida,2014
+494,Collier,1568274000,Florida,2014
+495,Brevard,1646962000,Florida,2014
+496,Volusia,1608350000,Florida,2014
+497,Polk,1073182000,Florida,2014
+498,Pasco,1033797000,Florida,2014
+499,Alachua,767731000,Florida,2014
+500,Seminole,791499000,Florida,2014
+501,Manatee,754150000,Florida,2014
+502,Saint Johns,717079000,Florida,2014
+503,Marion,720899000,Florida,2014
+504,Indian River,714443000,Florida,2014
+505,Martin,702399000,Florida,2014
+506,Charlotte,669328000,Florida,2014
+507,Leon,572530000,Florida,2014
+508,Lake,671552000,Florida,2014
+509,Escambia,507064000,Florida,2014
+510,Saint Lucie,412179000,Florida,2014
+511,Sumter,148389000,Florida,2014
+512,Flagler,282867000,Florida,2014
+513,Osceola,261842000,Florida,2014
+514,Okaloosa,240203000,Florida,2014
+515,Clay,249016000,Florida,2014
+516,Bay,181142000,Florida,2014
+517,Highlands,201003000,Florida,2014
+518,Nassau,165090000,Florida,2014
+519,Monroe,156410000,Florida,2014
+520,Hernando,164993000,Florida,2014
+521,Citrus,108757000,Florida,2014
+522,Walton,65405000,Florida,2014
+523,Jackson,66080000,Florida,2014
+524,Baker,51472000,Florida,2014
+525,Santa Rosa,39582000,Florida,2014
+526,Madison,39098000,Florida,2014
+527,De Soto,39351000,Florida,2014
+528,Washington,34546000,Florida,2014
+529,Taylor,36074000,Florida,2014
+530,Holmes,27864000,Florida,2014
+532,Montgomery,2553961000,Maryland,2014
+533,Baltimore City,2431324000,Maryland,2014
+534,Baltimore,1859768000,Maryland,2014
+535,Anne Arundel,857405000,Maryland,2014
+536,Howard,465313000,Maryland,2014
+537,Prince Georges,396664000,Maryland,2014
+538,Harford,309980000,Maryland,2014
+539,Carroll,171006000,Maryland,2014
+540,Charles,58282000,Maryland,2014
+541,Frederick,149813000,Maryland,2014
+542,Davidson,1200344000,Tennessee,2014
+543,Shelby,455964000,Tennessee,2014
+544,Williamson,133610000,Tennessee,2014
+545,Fairfax,9398565000,Virginia,2014
+546,Richmond City,3113331000,Virginia,2014
+547,Roanoke City,1599845000,Virginia,2014
+548,Henrico,1345360000,Virginia,2014
+549,Norfolk City,1399604000,Virginia,2014
+550,Virginia Beach City,1273135000,Virginia,2014
+551,Chesterfield,1185914000,Virginia,2014
+552,Arlington,983293000,Virginia,2014
+553,Alexandria City,814593000,Virginia,2014
+554,Loudoun,697722000,Virginia,2014
+555,Prince William,706125000,Virginia,2014
+556,Charlottesville City,517903000,Virginia,2014
+557,Chesapeake City,463098000,Virginia,2014
+558,Fairfax City,396312000,Virginia,2014
+559,Lynchburg City,435060000,Virginia,2014
+560,Montgomery,287782000,Virginia,2014
+561,Harrisonburg City,308482000,Virginia,2014
+562,Winchester City,193869000,Virginia,2014
+563,Spotsylvania,261790000,Virginia,2014
+564,Newport News City,250652000,Virginia,2014
+565,Hanover,231917000,Virginia,2014
+566,Bristol,224377000,Virginia,2014
+567,Roanoke,208560000,Virginia,2014
+568,Portsmouth City,224720000,Virginia,2014
+569,Albemarle,195583000,Virginia,2014
+570,Campbell,208771000,Virginia,2014
+571,James City,193986000,Virginia,2014
+572,Falls Church City,188323000,Virginia,2014
+573,Culpeper,185918000,Virginia,2014
+574,Hampton City,172019000,Virginia,2014
+575,Bedford,173475000,Virginia,2014
+576,Stafford,163180000,Virginia,2014
+577,Salem,153584000,Virginia,2014
+578,York,143780000,Virginia,2014
+579,Colonial Heights City,118589000,Virginia,2014
+580,Manassas City,60686000,Virginia,2014
+581,Fredericksburg City,126493000,Virginia,2014
+582,Washington,107601000,Virginia,2014
+583,Frederick,216177000,Virginia,2014
+584,Goochland,111729000,Virginia,2014
+585,Orange,108497000,Virginia,2014
+586,Warren,97283000,Virginia,2014
+587,Petersburg City,101164000,Virginia,2014
+588,Fauquier,123221000,Virginia,2014
+589,Tazewell,79093000,Virginia,2014
+590,Amherst,94936000,Virginia,2014
+592,Williamsburg City,72800000,Virginia,2014
+593,Rockingham,70029000,Virginia,2014
+594,Mecklenburg,76144000,Virginia,2014
+595,Galax City,72738000,Virginia,2014
+596,Suffolk City,71253000,Virginia,2014
+597,Hopewell City,69510000,Virginia,2014
+598,Halifax,67682000,Virginia,2014
+599,Louisa,62589000,Virginia,2014
+600,Smyth,59444000,Virginia,2014
+601,Appomattox,57763000,Virginia,2014
+602,Norton City,53144000,Virginia,2014
+603,Buchanan,57885000,Virginia,2014
+604,Waynesboro City,49749000,Virginia,2014
+605,Gloucester,53919000,Virginia,2014
+606,Wise,56215000,Virginia,2014
+608,Madison,55852000,Virginia,2014
+609,Prince Edward,52337000,Virginia,2014
+610,Poquoson City,50153000,Virginia,2014
+611,Covington City,40185000,Virginia,2014
+612,Pulaski,40947000,Virginia,2014
+613,Dickenson,42953000,Virginia,2014
+614,Amelia,39112000,Virginia,2014
+615,Powhatan,33246000,Virginia,2014
+616,Henry,35775000,Virginia,2014
+617,Nelson,33890000,Virginia,2014
+618,Isle Of Wight,35753000,Virginia,2014
+619,Radford,39871000,Virginia,2014
+620,Pittsylvania,50510000,Virginia,2014
+621,Rockbridge,74948000,Virginia,2014
+622,Jefferson,3539231000,Alabama,2014
+623,Montgomery,747173000,Alabama,2014
+624,Baldwin,512559000,Alabama,2014
+625,Mobile,561541000,Alabama,2014
+626,Madison,572794000,Alabama,2014
+627,Shelby,336300000,Alabama,2014
+628,Houston,313812000,Alabama,2014
+629,Calhoun,247995000,Alabama,2014
+630,Tuscaloosa,195727000,Alabama,2014
+631,Lee,157374000,Alabama,2014
+632,Etowah,154895000,Alabama,2014
+633,Marshall,152861000,Alabama,2014
+634,Colbert,40568000,Alabama,2014
+635,Covington,124501000,Alabama,2014
+636,Morgan,118202000,Alabama,2014
+637,Lauderdale,102897000,Alabama,2014
+638,Cullman,97210000,Alabama,2014
+639,Dale,91040000,Alabama,2014
+640,Coffee,84316000,Alabama,2014
+641,Tallapoosa,74952000,Alabama,2014
+642,Marion,75286000,Alabama,2014
+643,Dallas,74244000,Alabama,2014
+644,Pike,68780000,Alabama,2014
+645,Russell,44937000,Alabama,2014
+646,Walker,36574000,Alabama,2014
+647,Autauga,29723000,Alabama,2014
+648,Henry,30608000,Alabama,2014
+649,Talladega,25293000,Alabama,2014
+650,Elmore,22514000,Alabama,2014
+651,Randolph,18277000,Alabama,2014
+652,Clay,14656000,Alabama,2014
